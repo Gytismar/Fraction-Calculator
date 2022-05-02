@@ -75,15 +75,5 @@ namespace WindowsFormTest
         {
 
         }
-
-        private void Mygtukas_Test(object sender, EventArgs e)
-        {
-            LCMbox.Text = "69";
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
