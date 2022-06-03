@@ -3,15 +3,6 @@
 #include "fractioncalculator.h"
 #include <iostream>
 
-attempt::attempt(int x) {
-	this->x = x;
-}
-
-int attempt::add(int y) {
-	return this->x - y;
-	std::cout << y;
-}
-
 auto temp = new(cFraction);
 
 //Fraction calculator
